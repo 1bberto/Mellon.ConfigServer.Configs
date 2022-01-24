@@ -1,4 +1,4 @@
 test: true
 database: "this is the database name from main"
-password: ${TestKey}
+password: {keyvault}certpass
 username: username
