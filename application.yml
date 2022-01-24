@@ -1,4 +1,4 @@
 test: true
 database: "this is the database name"
-password: {keyvault}DatabasePassword
+password: DatabasePassword
 username: username
