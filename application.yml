@@ -1,4 +1,4 @@
 test: true
 database: "this is the database name from main"
-password: ${azure.keyvault.TestKey}
+password: ${keyvault}TestKey
 username: username
