@@ -1,4 +1,4 @@
 test: true
-database: "this is the database name"
+database: "this is the database name from main"
 password: DatabasePassword
 username: username
