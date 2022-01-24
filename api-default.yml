@@ -1,1 +1,1 @@
-connectionString: ${application.database}
+connectionString: ${database}
