@@ -1,1 +1,11 @@
 connectionString: ${database}
+multi-tenand:
+- clientA:
+    connectionString1: clientA
+    connectionString2: clientA
+    connectionString3: clientA
+- clientB:
+    connectionString1: clientB
+    connectionString2: clientB
+    connectionString3: clientB
+    
