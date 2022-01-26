@@ -1,3 +1,4 @@
 database: "this is the database name from main"
 username: username
 super-secret-key: "{keyvault}secret-key"
+log-level: "Warning"
