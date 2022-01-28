@@ -1,4 +1,5 @@
 connectionString: ${database}
+connectionStringTest: ${database-name}
 multi-tenand:
 - clientA:
     connectionString1: clientA
