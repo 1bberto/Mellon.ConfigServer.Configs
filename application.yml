@@ -1,5 +1,5 @@
 database: "this is the database name from main"
-username: usernam
+username: username
 super-secret-key: "{keyvault}secret-key"
 log-level: "Warning"
 database-name: "dbName"
